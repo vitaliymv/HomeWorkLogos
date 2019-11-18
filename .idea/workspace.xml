@@ -2,16 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a3843be0-1dbd-47db-8e54-5b54256f05f1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/javacoreeight/Calculator/Calc/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javacoreeight/Calculator/Calc/MyCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javacoreeight/Calculator/Divide.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javacoreeight/Calculator/Minus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javacoreeight/Calculator/Multiply.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javacoreeight/Calculator/Numerable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javacoreeight/Calculator/Plus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javacoreeight/Calculator/Readme" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LogosHomework/javacoreseven/Readme" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LogosHomework/javacoreseven/Readme" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LogosHomework/javacoreeight/Calculator/Calc/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LogosHomework/javacoreeight/Calculator/Calc/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LogosHomework/javacoreeight/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LogosHomework/javacoreeight/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javacoreeight/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacoreeight/Main.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,8 +17,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -37,7 +31,8 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/javacoreeight" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/javacorenine" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -47,7 +42,11 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\movca\IdeaProjects\LogosHomework\src\javacorenine\season" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\movca\IdeaProjects\LogosHomework\src\javacorenine" />
       <recent name="C:\Users\movca\IdeaProjects\LogosHomework\src\javacoreeight" />
     </key>
   </component>
@@ -63,7 +62,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.ReworkCalculator">
+    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javacoreseven.Calculator" />
+      <module name="LogosHomework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javacoreseven.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="javacoreeight.Main" />
       <module name="LogosHomework" />
@@ -103,19 +115,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test" />
+    <configuration name="ReworkCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javacorenine.ReworkCalculator" />
       <module name="LogosHomework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javacorenine.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReworkCalculator" />
         <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Calculator" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -137,6 +156,11 @@
       <workItem from="1573486986296" duration="3299000" />
       <workItem from="1573500737825" duration="82000" />
       <workItem from="1573640348031" duration="19365000" />
+      <workItem from="1573660515710" duration="346000" />
+      <workItem from="1573665839910" duration="44000" />
+      <workItem from="1573832389620" duration="632000" />
+      <workItem from="1573852908314" duration="24000" />
+      <workItem from="1574027676238" duration="9170000" />
     </task>
     <servers />
   </component>

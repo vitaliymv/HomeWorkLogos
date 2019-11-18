@@ -4,12 +4,22 @@ import java.util.Scanner;
 
 public class Main {
 
-    public static void main(String[] args) {
+    public static void main(String[] args) throws WrongInputConsoleParametersException {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter the month: ");
-        String scanData = scanner.next();
+        String scanData = scanner.nextLine();
+        if (isNumber(scanData)) {
+            throw new WrongInputConsoleParametersException("Incorrect input");
+        } else {
+            printStatistics(scanData);
+        }
+        scanner.close();
 
-        for(Month m : Month.values()) {
+            scanner.close();
+    }
+
+    private static void printStatistics(String scanData) {
+        for (Month m : Month.values()) {
             if (scanData.equalsIgnoreCase(m.name())) {
                 System.out.println("SUCCESS");
                 monthsWithSameSeasons(m);
@@ -23,7 +33,6 @@ public class Main {
                 evenOddDaysMonth(m);
             }
         }
-        scanner.close();
     }
 
     private static void monthsWithSameSeasons(Month m) {
@@ -110,4 +119,11 @@ public class Main {
         System.out.println();
     }
 
+    private static boolean isNumber(String scanData) {
+        if (scanData == null || scanData.isEmpty()) return false;
+        for (int i = 0; i < scanData.length(); i++) {
+            if (!Character.isDigit(scanData.charAt(i))) return false;
+        }
+        return true;
+    }
 }
