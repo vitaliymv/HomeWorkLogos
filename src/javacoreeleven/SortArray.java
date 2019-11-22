@@ -1,6 +1,7 @@
 package javacoreeleven;
 
 import java.util.Arrays;
+import java.util.Comparator;
 import java.util.Random;
 
 public class SortArray {
@@ -10,12 +11,21 @@ public class SortArray {
         Integer[] array = new Integer[20];
 
         fillArray(array);
-        sortArray(array);
+        sortArrayInDecreasingOrder(array);
+        sortArrayInIncreasingOrder(array);
     }
 
-    private static void sortArray(Integer[] array) {
-        System.out.println("\nSorted array: ");
+    private static void sortArrayInIncreasingOrder(Integer[] array) {
+        System.out.println("\nSort increasing: ");
         Arrays.sort(array);
+        for (Integer integer : array) {
+            System.out.print(integer + "\t");
+        }
+    }
+
+    private static void sortArrayInDecreasingOrder(Integer[] array) {
+        System.out.println("\nSort decreasing: ");
+        Arrays.sort(array, Comparator.reverseOrder());
         for (Integer integer : array) {
             System.out.print(integer + "\t");
         }
