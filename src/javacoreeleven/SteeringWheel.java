@@ -1,29 +1,21 @@
 package javacoreeleven;
 
 import java.util.Arrays;
-import java.util.Random;
 
 public class SteeringWheel {
     private int diameter;
-    private String[] material;
+    private String material;
 
-    public SteeringWheel(int diameter) {
+    public SteeringWheel(int diameter, String material) {
         this.diameter = diameter;
-    }
-
-    public int getDiameter() {
-        return diameter;
-    }
-
-    public String[] getMaterial() {
-        return material;
+        this.material = material;
     }
 
     @Override
     public String toString() {
         return "SteeringWheel{" +
                 "diameter=" + diameter +
-                ", material=" + Arrays.toString(material) +
+                ", material=" + material +
                 '}';
     }
 }

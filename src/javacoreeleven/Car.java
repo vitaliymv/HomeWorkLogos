@@ -9,15 +9,6 @@ public class Car {
         this.yearOfProduction = yearOfProduction;
     }
 
-    public int getNumberHorsePower() {
-        return numberHorsePower;
-    }
-
-
-    public int getYearOfProduction() {
-        return yearOfProduction;
-    }
-
     @Override
     public String toString() {
         return "Car{" +

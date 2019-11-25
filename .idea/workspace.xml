@@ -3,9 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="a3843be0-1dbd-47db-8e54-5b54256f05f1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LogosHomework/javacoreeight/Calculator/Calc/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LogosHomework/javacoreeight/Calculator/Calc/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LogosHomework/javacoreeight/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LogosHomework/javacoreeight/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javacoreeight/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacoreeight/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gladiator/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gladiator/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javacoreeleven/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacoreeleven/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javacoreeleven/Engine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacoreeleven/Engine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javacoreeleven/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacoreeleven/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javacoreeleven/SteeringWheel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacoreeleven/SteeringWheel.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,8 +18,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -62,26 +64,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ReworkCalculator">
-    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javacoreseven.Calculator" />
-      <module name="LogosHomework" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="javacoreseven.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Main (2)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javacoreeight.Main" />
+      <option name="MAIN_CLASS_NAME" value="javacoreeleven.Main" />
       <module name="LogosHomework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javacoreeight.*" />
+          <option name="PATTERN" value="javacoreeleven.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,11 +79,11 @@
       </method>
     </configuration>
     <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javacoreeight.Calculator.Calc.Main" />
+      <option name="MAIN_CLASS_NAME" value="arraylinkedlist.Main" />
       <module name="LogosHomework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javacoreeight.Calculator.Calc.*" />
+          <option name="PATTERN" value="arraylinkedlist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,11 +92,11 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javacoreseven.Main" />
+      <option name="MAIN_CLASS_NAME" value="gladiator.Main" />
       <module name="LogosHomework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javacoreseven.*" />
+          <option name="PATTERN" value="gladiator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +104,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReworkCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javacorenine.ReworkCalculator" />
+    <configuration name="MyArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arraylinkedlist.MyArrayList" />
       <module name="LogosHomework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javacorenine.*" />
+          <option name="PATTERN" value="arraylinkedlist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javacoreeleven.SortArray" />
+      <module name="LogosHomework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javacoreeleven.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,10 +132,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ReworkCalculator" />
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Calculator" />
         <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.MyArrayList" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.SortArray" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -161,6 +163,19 @@
       <workItem from="1573832389620" duration="632000" />
       <workItem from="1573852908314" duration="24000" />
       <workItem from="1574027676238" duration="9170000" />
+      <workItem from="1574090708204" duration="3449000" />
+      <workItem from="1574113820408" duration="8597000" />
+      <workItem from="1574169735894" duration="6470000" />
+      <workItem from="1574183355021" duration="3693000" />
+      <workItem from="1574198994502" duration="4549000" />
+      <workItem from="1574264148230" duration="4550000" />
+      <workItem from="1574273217995" duration="3000" />
+      <workItem from="1574344704337" duration="2603000" />
+      <workItem from="1574353680274" duration="72000" />
+      <workItem from="1574430324498" duration="2472000" />
+      <workItem from="1574437035656" duration="2993000" />
+      <workItem from="1574684120551" duration="1169000" />
+      <workItem from="1574685366272" duration="1395000" />
     </task>
     <servers />
   </component>

@@ -29,9 +29,6 @@ public class Main {
                 break;
             }
         }
-
-
-
     }
 
     private static void printStatisticGladiators(Gladiator goplomakh, Gladiator sagittarius) {
