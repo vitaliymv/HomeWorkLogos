@@ -1,19 +1,17 @@
 package arraylinkedlist;
 
-import java.util.LinkedList;
-
 public class Main {
 
     public static void main(String[] args) {
 
-        MyArrayList myArrayList = new MyArrayList();
-        myArrayList.add(4);
-        myArrayList.add(3);
-        myArrayList.add(7);
-        myArrayList.add(9);
-        myArrayList.add(3);
+        MyArrayList<Object> myArrayList = new MyArrayList<>();
+        myArrayList.add("a");
+        myArrayList.add(1);
+        myArrayList.add("test");
+        myArrayList.remove(5);
 
-        myArrayList.remove(4);
+
+
 
         System.out.println(myArrayList);
         System.out.println("--------------------------------------");

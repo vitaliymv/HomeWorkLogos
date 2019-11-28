@@ -3,11 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="a3843be0-1dbd-47db-8e54-5b54256f05f1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gladiator/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gladiator/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javacoreeleven/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacoreeleven/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javacoreeleven/Engine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacoreeleven/Engine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javacoreeleven/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacoreeleven/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javacoreeleven/SteeringWheel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacoreeleven/SteeringWheel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arraylinkedlist/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arraylinkedlist/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arraylinkedlist/MyArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arraylinkedlist/MyArrayList.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -176,6 +173,8 @@
       <workItem from="1574437035656" duration="2993000" />
       <workItem from="1574684120551" duration="1169000" />
       <workItem from="1574685366272" duration="1395000" />
+      <workItem from="1574695957123" duration="1176000" />
+      <workItem from="1574959999579" duration="1321000" />
     </task>
     <servers />
   </component>
