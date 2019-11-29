@@ -16,11 +16,11 @@ public class Main {
         System.out.println(myArrayList);
         System.out.println("--------------------------------------");
         MyLinkedList myLinkedList = new MyLinkedList();
-        myLinkedList.addFirst(1);
-        myLinkedList.addLast(35);
-        myLinkedList.addFirst(4);
-        myLinkedList.addLast(54);
-        myLinkedList.print();
+        myLinkedList.add(5);
+        myLinkedList.add("test");
+        myLinkedList.add(234);
+        myLinkedList.remove(5);
+        System.out.println(myLinkedList);
 
 
     }
