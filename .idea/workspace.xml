@@ -3,8 +3,71 @@
   <component name="ChangeListManager">
     <list default="true" id="a3843be0-1dbd-47db-8e54-5b54256f05f1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LogosHomework/gladiator/Readme" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LogosHomework/gladiator/Readme" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LogosHomework/javacoreeight/Calculator/Calc/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LogosHomework/javacoreeight/Calculator/Calc/MyCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LogosHomework/javacoreeight/Calculator/Divide.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LogosHomework/javacoreeight/Calculator/Minus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LogosHomework/javacoreeight/Calculator/Multiply.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LogosHomework/javacoreeight/Calculator/Numerable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LogosHomework/javacoreeight/Calculator/Plus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LogosHomework/javacoreeight/Calculator/Readme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LogosHomework/javacoreeight/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LogosHomework/javacoreeight/Month.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LogosHomework/javacoreeight/Readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LogosHomework/javacoreeight/Season.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LogosHomework/javacoreseven/Control.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LogosHomework/javacoreseven/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LogosHomework/javacoreseven/Plane.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LogosHomework/javacoreseven/Readme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LogosHomework/javacoreseven/SpecialFeatures.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LogosHomework/javacoreseven/Su27.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/arraylinkedlist/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arraylinkedlist/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/arraylinkedlist/MyArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arraylinkedlist/MyArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arraylinkedlist/MyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arraylinkedlist/MyLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arraylinkedlist/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arraylinkedlist/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gladiator/Gladiator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gladiator/Gladiator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gladiator/Goplomakh.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gladiator/Goplomakh.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gladiator/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gladiator/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gladiator/Readme" beforeDir="false" afterPath="$PROJECT_DIR$/src/gladiator/Readme" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gladiator/Sagittarius.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gladiator/Sagittarius.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gladiator/Weapon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gladiator/Weapon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javacoreeight/Calculator/Calc/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/enumseasons/Calculator/Calc/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javacoreeight/Calculator/Calc/MyCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/enumseasons/Calculator/Calc/MyCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javacoreeight/Calculator/Divide.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/enumseasons/Calculator/Divide.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javacoreeight/Calculator/Minus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/enumseasons/Calculator/Minus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javacoreeight/Calculator/Multiply.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/enumseasons/Calculator/Multiply.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javacoreeight/Calculator/Numerable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/enumseasons/Calculator/Numerable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javacoreeight/Calculator/Plus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/enumseasons/Calculator/Plus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javacoreeight/Calculator/Readme" beforeDir="false" afterPath="$PROJECT_DIR$/src/enumseasons/Calculator/Readme" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javacoreeight/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/enumseasons/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javacoreeight/Month.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/enumseasons/Month.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javacoreeight/Readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/enumseasons/Readme.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javacoreeight/Season.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/enumseasons/Season.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javacoreeight/WrongInputConsoleParametersException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/enumseasons/WrongInputConsoleParametersException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javacoreeleven/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javacoreeleven/Engine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays/Engine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javacoreeleven/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javacoreeleven/SortArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays/SortArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javacoreeleven/SteeringWheel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays/SteeringWheel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javacorenine/ReworkCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exceptions/ReworkCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javacoreseven/Control.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/planesutwentyseven/Control.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javacoreseven/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/planesutwentyseven/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javacoreseven/Plane.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/planesutwentyseven/Plane.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javacoreseven/Readme" beforeDir="false" afterPath="$PROJECT_DIR$/src/planesutwentyseven/Readme" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javacoreseven/SpecialFeatures.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/planesutwentyseven/SpecialFeatures.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javacoreseven/Su27.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/planesutwentyseven/Su27.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javacoreten/CountSentences.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stringoperations/CountSentences.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javacoreten/CountWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stringoperations/CountWords.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javacoreten/Data.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stringoperations/Data.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javacoreten/MostPopularInText.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stringoperations/MostPopularInText.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javacoreten/MostPopularWordInSentence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stringoperations/MostPopularWordInSentence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javacoreten/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stringoperations/Palindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javacoreten/ReplaceLoudLetters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stringoperations/ReplaceLoudLetters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/setqueque/taskone/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/setqueque/taskone/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/setqueque/taskone/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/setqueque/taskone/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/setqueque/taskone/PersonAgeComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/setqueque/taskone/PersonAgeComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/setqueque/taskone/PersonNameComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/setqueque/taskone/PersonNameComparator.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,12 +104,15 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\movca\IdeaProjects\LogosHomework\src\javacorenine\season" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\movca\IdeaProjects\LogosHomework\src\javacorenine" />
       <recent name="C:\Users\movca\IdeaProjects\LogosHomework\src\javacoreeight" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="setqueque" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\movca\IdeaProjects\LogosHomework\src\javacorenine\season" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -63,11 +129,11 @@
   </component>
   <component name="RunManager" selected="Application.Main (2)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javacoreeleven.Main" />
+      <option name="MAIN_CLASS_NAME" value="verhovnarada.Main" />
       <module name="LogosHomework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javacoreeleven.*" />
+          <option name="PATTERN" value="verhovnarada.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,6 +142,45 @@
       </method>
     </configuration>
     <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="reflection.Main" />
+      <module name="LogosHomework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="reflection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gladiator.Main" />
+      <module name="LogosHomework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gladiator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="setqueque.tasktwo.Main" />
+      <module name="LogosHomework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="setqueque.tasktwo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="arraylinkedlist.Main" />
       <module name="LogosHomework" />
       <extension name="coverage">
@@ -89,37 +194,11 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="gladiator.Main" />
+      <option name="MAIN_CLASS_NAME" value="setqueque.taskone.Main" />
       <module name="LogosHomework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="gladiator.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MyArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arraylinkedlist.MyArrayList" />
-      <module name="LogosHomework" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="arraylinkedlist.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SortArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javacoreeleven.SortArray" />
-      <module name="LogosHomework" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="javacoreeleven.*" />
+          <option name="PATTERN" value="setqueque.taskone.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,10 +209,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.MyArrayList" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.SortArray" />
+        <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -175,6 +254,13 @@
       <workItem from="1574685366272" duration="1395000" />
       <workItem from="1574695957123" duration="1176000" />
       <workItem from="1574959999579" duration="1321000" />
+      <workItem from="1575025662204" duration="13476000" />
+      <workItem from="1575041526294" duration="604000" />
+      <workItem from="1575049697854" duration="351000" />
+      <workItem from="1575147166794" duration="5064000" />
+      <workItem from="1575226829623" duration="1725000" />
+      <workItem from="1575300808133" duration="1759000" />
+      <workItem from="1575456316449" duration="8641000" />
     </task>
     <servers />
   </component>

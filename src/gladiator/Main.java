@@ -6,8 +6,8 @@ import java.util.Random;
 public class Main {
 
     public static void main(String[] args) {
-        Gladiator goplomakh = new Goplomakh(600, 55, 35);
-        Gladiator sagittarius = new Sagittarius(400, 85, 15);
+        Gladiator goplomakh = new Goplomakh();
+        Gladiator sagittarius = new Sagittarius();
         int lifeGoplomakh = goplomakh.getLife();
         int lifeSagittarius = sagittarius.getLife();
         int attackGoplomakh = goplomakh.getAttackPower();
