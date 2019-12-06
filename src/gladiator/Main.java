@@ -6,6 +6,7 @@ import java.util.Random;
 public class Main {
 
     public static void main(String[] args) {
+        boolean isGladiatorAlive = true;
         Gladiator goplomakh = new Goplomakh();
         Gladiator sagittarius = new Sagittarius();
         int lifeGoplomakh = goplomakh.getLife();
@@ -17,7 +18,7 @@ public class Main {
         int round = 0;
         printStatisticGladiators(goplomakh, sagittarius);
 
-        for (; ;) {
+        while (isGladiatorAlive){
             if (lifeGoplomakh > 0 || lifeSagittarius > 0) {
                 goplomakh.setLife(lifeGoplomakh = lifeGoplomakh - (attackSagittarius - protectGoplomakh));;
                 sagittarius.setLife(lifeSagittarius = lifeSagittarius - (attackGoplomakh - protectSagittarius));;
