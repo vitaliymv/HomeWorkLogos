@@ -9,7 +9,7 @@ public class Collection {
     Collection() {
         array = new Integer[10];
     }
-
+    private static int i = 0;
     void createCollection() {
 //        System.out.println("Default array: ");
 //        array = new Number[]{1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
@@ -33,7 +33,7 @@ public class Collection {
 
         @Override
         public boolean hasNext() {
-            int i = 0;
+
             while (i++ < array.length) {
                 return true;
             }
@@ -57,7 +57,6 @@ public class Collection {
 
         @Override
         public boolean hasNext() {
-            int i = array.length;
             while (i-- > 0) {
                 return true;
             }

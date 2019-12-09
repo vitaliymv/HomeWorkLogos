@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a3843be0-1dbd-47db-8e54-5b54256f05f1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gladiator/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gladiator/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nestedlocalinner/Collection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nestedlocalinner/Collection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/verhovnarada/Deputy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/verhovnarada/Deputy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/verhovnarada/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/verhovnarada/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/verhovnarada/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/verhovnarada/Person.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -63,26 +67,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (4)">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="verhovnarada.Main" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="AddInListIntegerString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="generics.AddInListIntegerString" />
       <module name="LogosHomework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="verhovnarada.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="reflection.Main" />
-      <module name="LogosHomework" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="reflection.*" />
+          <option name="PATTERN" value="generics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="setqueque.tasktwo.Main" />
+    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="iostream.Main" />
       <module name="LogosHomework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="setqueque.tasktwo.*" />
+          <option name="PATTERN" value="iostream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,11 +121,11 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="gladiator.Main" />
+      <option name="MAIN_CLASS_NAME" value="verhovnarada.Main" />
       <module name="LogosHomework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="mapzooclub.*" />
+          <option name="PATTERN" value="verhovnarada.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -170,11 +161,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (4)" />
-        <item itemvalue="Application.Main (3)" />
-        <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (5)" />
+        <item itemvalue="Application.Main (4)" />
+        <item itemvalue="Application.AddInListIntegerString" />
+        <item itemvalue="Application.Main (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -227,6 +218,11 @@
       <workItem from="1575578316660" duration="4191000" />
       <workItem from="1575625195241" duration="4039000" />
       <workItem from="1575640962915" duration="1917000" />
+      <workItem from="1575646341418" duration="1258000" />
+      <workItem from="1575705082803" duration="246000" />
+      <workItem from="1575824243726" duration="2451000" />
+      <workItem from="1575905906666" duration="1320000" />
+      <workItem from="1575927887564" duration="5201000" />
     </task>
     <servers />
   </component>

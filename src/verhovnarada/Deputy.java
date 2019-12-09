@@ -5,17 +5,44 @@ import setqueque.InputParameters;
 class Deputy extends Person{
     private String name;
     private String lastName;
-    private Integer age;
-    private Boolean bribeTaker;
-    private Integer bribe;
+    private int age;
+    private boolean bribeTaker;
+    private int bribe;
 
-    void addDeputy() {
-        System.out.println("Enter name, last name, age, bribe-taker or no(true or false)");
-        name = InputParameters.getString();
-        lastName = InputParameters.getString();
-        age = InputParameters.getInt();
-        bribeTaker = InputParameters.getBoolean();
+    public Deputy() {
     }
+
+    public Deputy(String name, String lastName, int age, boolean bribeTaker) {
+        this.name = name;
+        this.lastName = lastName;
+        this.age = age;
+        this.bribeTaker = bribeTaker;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public String getLastName() {
+        return lastName;
+    }
+
+    public void setLastName(String lastName) {
+        this.lastName = lastName;
+    }
+
+    public int getAge() {
+        return age;
+    }
+
+    public void setAge(int age) {
+        this.age = age;
+    }
+
     void addBribe() {
         if (!bribeTaker) {
             System.out.println("This deputy not take bribe");
@@ -25,5 +52,15 @@ class Deputy extends Person{
                 System.out.println("The police drove for the deputy");
             }
         }
+    }
+
+    @Override
+    public String toString() {
+        return "Deputy{" +
+                "name='" + name + '\'' +
+                ", lastName='" + lastName + '\'' +
+                ", age=" + age +
+                ", bribeTaker=" + bribeTaker +
+                '}';
     }
 }
