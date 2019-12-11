@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a3843be0-1dbd-47db-8e54-5b54256f05f1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/nestedlocalinner/Collection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nestedlocalinner/Collection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/verhovnarada/Deputy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/verhovnarada/Deputy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/verhovnarada/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/verhovnarada/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/verhovnarada/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/verhovnarada/Person.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -223,6 +218,7 @@
       <workItem from="1575824243726" duration="2451000" />
       <workItem from="1575905906666" duration="1320000" />
       <workItem from="1575927887564" duration="5201000" />
+      <workItem from="1575974988065" duration="165000" />
     </task>
     <servers />
   </component>
