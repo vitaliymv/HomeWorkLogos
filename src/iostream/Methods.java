@@ -24,13 +24,15 @@ class Methods {
 //        salary = InputParameters.getInt();
 //        Employee employee = new Employee(name, id, salary);
 //        list.add(employee);
-        FileOutputStream outputStream = new FileOutputStream("save.txt");
-        ObjectOutputStream objectOutputStream = new ObjectOutputStream(outputStream);
+//        FileOutputStream outputStream = new FileOutputStream("save.txt");
+//        ObjectOutputStream objectOutputStream = new ObjectOutputStream(outputStream);
 //        objectOutputStream.writeObject(list);
 //        objectOutputStream.flush();
 //        System.out.println("Serialization: ");
 //        System.out.println(objectOutputStream);
 //        objectOutputStream.close();
+        FileOutputStream outputStream = new FileOutputStream("save.txt");
+        ObjectOutputStream objectOutputStream = new ObjectOutputStream(outputStream);
         Employee employee = new Employee("Vitalii", 25, 10000);
         objectOutputStream.writeObject(employee);
         objectOutputStream.flush();
